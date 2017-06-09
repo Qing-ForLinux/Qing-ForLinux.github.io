@@ -12,7 +12,7 @@
 ###### 六级标题
 ### 2. 块注释
 #### 通过在文字开头添加">"表示块注释。（当>和文字之间添加五个blank时，块注释的文字会有变化。）
->块注释 
+>块注释
 
 ### 3. 斜体
 #### 将需要设置为斜体的文字或者字符首尾两端用一个' * ' 或者' _ '括起来
@@ -35,11 +35,11 @@
 ##### 1. 内联方式:
     this is an [website link](https://www.shuqingzheng.com)
 ##### 2. 引用方式
-    I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
+    `<I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].>`
     [1]: http://google.com/        "Google"
     [2]: http://search.yahoo.com/  "Yahoo Search"
     [3]: http://search.msn.com/    "MSN Search"
-this is an [website link](https://www.shuqingzheng.com)
+    this is an [website link](https://www.shuqingzheng.com)
 
 I get 10 times more traffic from [Google][1] than from [Yahoo][2] or [MSN][3].
 [1]: http://google.com/        "Google"
